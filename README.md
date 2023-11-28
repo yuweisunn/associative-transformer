@@ -2,7 +2,7 @@
 More details will be added soon.
 
 ["Associative Transformer Is A Sparse Representation Learner"](https://arxiv.org/abs/2309.12862)
-NeurIPS 2023 Associative Memory & Hopfield Networks workshop (Oral)
+NeurIPS 2023 Associative Memory & Hopfield Networks
 
 ## Training
 
