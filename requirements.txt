@@ -1,0 +1,5 @@
+git+https://github.com/ml-jku/hopfield-layers 
+timm
+wandb
+torch_multi_head_attention
+torchprofile
